@@ -1,0 +1,18 @@
+/* COULEURS / COLORS :
+#582900     Principale
+#FD6C9E     SECONDAIRE
+#77B5FE     ADDITIONELLE
+
+POLICES / FONTS :
+Montserrat
+Lato */
+
+body {
+    margin: 0;
+    background: darkgray;
+    overflow: hidden;
+    text-align: center;
+}
+#myCanvas {
+    background: lightgray;
+}
