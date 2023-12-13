@@ -1,0 +1,1 @@
+# This project is a simple self driving car implemented in JS.
